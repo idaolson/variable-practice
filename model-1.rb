@@ -7,3 +7,6 @@ horse_height = 15.2
 
 can_race = false
 can_jump = true
+
+nicknames = ['Dandy', "Danny", "Good Boy!"]
+riders = ['Ida Olson', 'Brenda McCain', 'Sonny Faultner']
